@@ -1,2 +1,2 @@
 # Python-projects-
-This is Python projects repository 
+This is Python projects repository
